@@ -26,7 +26,8 @@ SECRET_KEY = 'jl%y61c8p-jhj!37j9g4(ntk=ql1b=^hb3fp_=d(0s3yo6y%d('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8080-e1333e77-b33e-4f1c-ac7b-47b439afa417.ws-eu01.gitpod.io']
+ALLOWED_HOSTS = ['8080-e1333e77-b33e-4f1c-ac7b-47b439afa417.ws-eu01.gitpod.io',
+                 'matt-django-todo-app.herokuapp.com']
 
 
 # Application definition
