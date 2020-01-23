@@ -14,3 +14,4 @@ tasks:
     command: echo 'alias run="python3 /workspace/django_todo/manage.py runserver 0.0.0.0:8080"' >> ~/.bashrc && source ~/.bashrc
 
 export DEVELOPMENT=1
+export SECRET_KEY="$%%934svjrhb(+14*4jz$%#e%oj%k-t3@qllb_ahnkfr#i4@z&"
