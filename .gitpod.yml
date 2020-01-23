@@ -12,3 +12,5 @@ tasks:
     command: echo 'start script'
   - name: alias
     command: echo 'alias run="python3 /workspace/django_todo/manage.py runserver 0.0.0.0:8080"' >> ~/.bashrc && source ~/.bashrc
+
+export DEVELOPMENT=1
